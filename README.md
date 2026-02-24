@@ -66,3 +66,11 @@ Watch votes roll in real-time:
 - [ ] Desktop GUI (Pear App3 mode)
 
 ---
+![image](https://github.com/user-attachments/assets/f35be1a5-e573-4721-8668-f0901ee925fe)
+
+![image](https://github.com/user-attachments/assets/0157ae35-0362-4d36-abbe-616630139c1f)
+
+![image](https://github.com/user-attachments/assets/9867f388-b074-439f-a615-9b6597ec8ee4)
+
+
+
